@@ -1,2 +1,2 @@
 # website
-The FenrirOS website 
+The FenrirLinux website 
